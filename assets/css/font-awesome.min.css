@@ -206,7 +206,7 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-wrench:before{content:"\f0ad";}
 .icon-tasks:before{content:"\f0ae";}
 .icon-filter:before{content:"\f0b0";}
-.icon-briefcase:before{content:"\f0b1";}
+.icon-briefcase:before{content:"\f0b1 Community Work";}
 .icon-fullscreen:before{content:"\f0b2";}
 .icon-group:before{content:"\f0c0";}
 .icon-link:before{content:"\f0c1";}
@@ -253,7 +253,7 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-exchange:before{content:"\f0ec";}
 .icon-cloud-download:before{content:"\f0ed";}
 .icon-cloud-upload:before{content:"\f0ee";}
-.icon-user-md:before{content:"\f0f0";}
+.icon-user-md:before{content:"\f0f0 Introduction";}
 .icon-stethoscope:before{content:"\f0f1";}
 .icon-suitcase:before{content:"\f0f2";}
 .icon-bell-alt:before{content:"\f0f3";}
@@ -355,7 +355,7 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-renminbi:before,.icon-cny:before{content:"\f158";}
 .icon-won:before,.icon-krw:before{content:"\f159";}
 .icon-bitcoin:before,.icon-btc:before{content:"\f15a";}
-.icon-file:before{content:"\f15b";}
+.icon-file:before{content:"\f15b Education";}
 .icon-file-text:before{content:"\f15c";}
 .icon-sort-by-alphabet:before{content:"\f15d";}
 .icon-sort-by-alphabet-alt:before{content:"\f15e";}
@@ -387,9 +387,9 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-windows:before{content:"\f17a";}
 .icon-android:before{content:"\f17b";}
 .icon-linux:before{content:"\f17c";}
-.icon-dribbble:before{content:"\f17d";}
+.icon-dribbble:before{content:"\f17d Skills";}
 .icon-works:before{content:"\f17f";}
-.icon-project:before{content:"\f17 Project";}
+.icon-project:before{content:"\f17 Projects";}
 .icon-skype:before{content:"\f17e";}
 .icon-foursquare:before{content:"\f180";}
 .icon-trello:before{content:"\f181";}
