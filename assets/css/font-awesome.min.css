@@ -238,7 +238,7 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-sort:before{content:"\f0dc";}
 .icon-sort-down:before{content:"\f0dd";}
 .icon-sort-up:before{content:"\f0de";}
-.icon-envelope:before{content:"\f0e0";}
+.icon-envelope:before{content:"\f0e0 Contact";}
 .icon-linkedin:before{content:"\f0e1";}
 .icon-rotate-left:before,.icon-undo:before{content:"\f0e2";}
 .icon-legal:before{content:"\f0e3";}
@@ -389,7 +389,7 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-linux:before{content:"\f17c";}
 .icon-dribbble:before{content:"\f17d";}
 .icon-works:before{content:"\f17f";}
-.icon-project:before{content:"\f17Projects";}
+.icon-project:before{content:"\f17 Project";}
 .icon-skype:before{content:"\f17e";}
 .icon-foursquare:before{content:"\f180";}
 .icon-trello:before{content:"\f181";}
